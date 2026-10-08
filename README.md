@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arabang_Mothofela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arabang-mothofela-804771365/)
 [![TikTok](https://img.shields.io/badge/TikTok-@a__b__m999-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@a_b_m999)
-[![Facebook](https://img.shields.io/badge/Facebook-Arabang_Mothofela-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-Arabang_Mothofela-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arabang.benville.mothofela)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arabangmothofela@gmail.com)
 [![Portfolio Video](https://img.shields.io/badge/SmartTransit-System_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BS1-mfaJKo4)
 
