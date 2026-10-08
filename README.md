@@ -82,5 +82,5 @@
 
 * **LinkedIn:** [linkedin.com/in/arabang-mothofela-804771365](https://www.linkedin.com/in/arabang-mothofela-804771365/)
 * **TikTok:** [@a_b_m999](https://www.tiktok.com/@a_b_m999)
-* **Facebook:** [Arabang Mothofela](https://www.facebook.com/arabang.benville.mothofela) *(replace with your exact Facebook profile link)*
+* **Facebook:** [Arabang Mothofela](https://www.facebook.com/arabang.benville.mothofela)
 * **Direct Email:** [arabangmothofela@gmail.com](mailto:arabangmothofela@gmail.com)
